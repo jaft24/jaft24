@@ -37,7 +37,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
     <a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=R&logoColor=blue"></a>
+    <a href=""><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=R&logoColor=blue"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -87,6 +87,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube%20-%230C5C8B.svg?logo=sonarqube&logoColor=white"></a>
 <a href="#"><img alt="Peewee" src="https://img.shields.io/badge/Peewee%20-%2300a65a.svg?logo=peewee&logoColor=white"></a>
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23D24939.svg?logo=jenkins&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
