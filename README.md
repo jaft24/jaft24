@@ -66,7 +66,6 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase%20-%23005696.svg?logo=liquibase&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -80,6 +79,12 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase%20-%23005696.svg?logo=liquibase&logoColor=white"></a>
+<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI%20-%2322185b.svg?logo=circleci&logoColor=white"></a>
+<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver%20-%230C5C8B.svg?logo=dbeaver&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
+<a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube%20-%230C5C8B.svg?logo=sonarqube&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -126,7 +131,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
   <br/>
 </details>
 
-## 🙋‍♀️ Let's Connect
+## 🙋🏾‍♂️ Let's Connect
 
 <p align="center">
 	<a href="https://jaft24.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
