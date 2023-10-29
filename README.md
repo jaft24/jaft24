@@ -37,6 +37,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
     <a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML%20-%23007396.svg?logo=xml&logoColor=white"></a>
     <a href=""><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=R&logoColor=blue"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -56,7 +57,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?logo=spring-boot&logoColor=white"></a>
-<a href="#"><img alt="Grade" src="https://img.shields.io/badge/Grade%20-%2300C853.svg?logo=gradle&logoColor=white"></a>
+<a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Grade%20-%2300C853.svg?logo=gradle&logoColor=white"></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
 <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%20-%23DA672C.svg?logo=mockito&logoColor=white"></a>
 <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
