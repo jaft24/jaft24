@@ -66,6 +66,7 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase%20-%23005696.svg?logo=liquibase&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
