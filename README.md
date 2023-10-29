@@ -56,12 +56,16 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?logo=spring-boot&logoColor=white"></a>
-<a href="#"><img alt="Tailwind Bootstrap" src="https://img.shields.io/badge/Tailwind%20CSS%20-%23068D9D.svg?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Grade" src="https://img.shields.io/badge/Grade%20-%2300C853.svg?logo=gradle&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%20-%23DA672C.svg?logo=mockito&logoColor=white"></a>
+<a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
+<a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS%20-%23068D9D.svg?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
