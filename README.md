@@ -1,7 +1,7 @@
 <h1 align="center">
 Hello, I'm Jaleta Tesgera!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=jaft24&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="jaft24" />
+  <img src="https://komarev.com/ghpvc/?username=jaft24&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="jaft24" />
 
 <br/>
 
@@ -85,6 +85,8 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
 <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube%20-%230C5C8B.svg?logo=sonarqube&logoColor=white"></a>
+<a href="#"><img alt="Peewee" src="https://img.shields.io/badge/Peewee%20-%2300a65a.svg?logo=peewee&logoColor=white"></a>
+<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23D24939.svg?logo=jenkins&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
