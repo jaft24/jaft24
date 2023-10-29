@@ -42,13 +42,26 @@ With an insatiable appetite for ongoing learning 📖, strong organizational ski
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
+<a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios%20-%2387D4F3.svg?logo=axios&logoColor=white"></a>
+<a href="#"><img alt="Capacitor" src="https://img.shields.io/badge/Capacitor%20-%233880FF.svg?logo=capacitor&logoColor=white"></a>
+<a href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI%20-%233197BD.svg?logo=chakra-ui&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest%20-%23C21325.svg?logo=jest&logoColor=white"></a>
+<a href="#"><img alt="KeyCloak" src="https://img.shields.io/badge/KeyCloak%20-%23369E1D.svg?logo=keycloak&logoColor=white"></a>
+<a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?logo=.net&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?logo=next.js&logoColor=white"></a>
+<a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?logo=spring-boot&logoColor=white"></a>
+<a href="#"><img alt="Tailwind Bootstrap" src="https://img.shields.io/badge/Tailwind%20CSS%20-%23068D9D.svg?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
